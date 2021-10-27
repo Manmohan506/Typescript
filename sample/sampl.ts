@@ -1,4 +1,4 @@
-npm install --save-dev typescriptexport{};
+export{};
 console.log("Hello World!");
 let put = "Hello World!";
 // let hello = 5;
