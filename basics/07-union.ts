@@ -5,4 +5,4 @@ export{};
 let pid: string | number
 
 pid = 22 //as number  or pid = '22' as string also it would work.
-pid = "pavan"
+pid = "manmohan"

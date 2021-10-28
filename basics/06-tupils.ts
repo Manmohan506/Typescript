@@ -8,6 +8,6 @@ let employee: [number, string] [] // [] for array
 
 employee = [    // we can write array inside array
     [1, 'ben'],
-    [2, 'john'],
-    [3, 'david'],
+    [2, 'mmh'],
+    [3, 'manmohan'],
 ]

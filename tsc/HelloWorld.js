@@ -1,9 +1,7 @@
-var Startup = /** @class */ (function () {
-    function Startup() {
-    }
-    Startup.main = function () {
+"use strict";
+class Startup {
+    static main() {
         console.log('Hello World, Wazz Up');
         return 0;
-    };
-    return Startup;
-}());
+    }
+}

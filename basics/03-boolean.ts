@@ -1,4 +1,5 @@
 //3.boolean
-export{};
+//export{};
 let isAdmin = true;
 isAdmin = false;
+console.log(isAdmin)
